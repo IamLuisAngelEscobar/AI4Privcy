@@ -1,0 +1,7 @@
+data*
+dataset
+*/*.jsonl
+.idea
+.vscode/
+.bash_history
+.lightning_studio/
